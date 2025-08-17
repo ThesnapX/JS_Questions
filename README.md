@@ -10,9 +10,9 @@ This repository is designed to help you learn, practice, and revise key JavaScri
 Each subfolder in this repository focuses on a specific JavaScript topic, such as:
 
 - Variables & Data Types
+- Loops & Conditionals
 - Functions
 - Arrays & Objects
-- Loops & Conditionals
 - String & Number Manipulation
 - DOM Manipulation *(if included)*
 - Advanced Topics *(e.g., Closures, Callbacks, Promises)*
